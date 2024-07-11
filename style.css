@@ -44,8 +44,13 @@
     text-align: center;
 }
 
+#y:visited{
+    color: black;
+}
+
 #y{
     font-size: 23;
+    text-decoration: none;
 }
 
 #u{
